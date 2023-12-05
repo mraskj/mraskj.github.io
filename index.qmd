@@ -1,0 +1,14 @@
+---
+title: "About Me"
+about:
+  template: solana
+  image: images\profileimage.jpg
+---
+
+Welcome! I'm a **PhD student** at the [Department of Political Science](https://ps.au.dk/en/) at Aarhus University (Denmark 🇩🇰). In the spring 2024, I'll visit University of Toronto (Canada 🇨🇦)
+
+Substantially, my research focuses on the *representation* and *legislation* provided by elected politicians. Methodologically, I develop and employ novel computational methods to analyze unstructured data sources such as text, audio, and video data.
+
+My dissertation develops a new theoretical concept *emotional representation*, which describes the way legislators use emotional rhetoric and expressions to represent citizens. To do this, I use a large collection of audio recordings of legislative proceedings to construct measures of vocal expressions of emotions based on pitch.
+
+Besides work, I'm a sport enthusiast, watching football ⚽, cycling 🚴🏽, and lots of other sports (🎾, 🏸, 🏈, 🏀, 🎿, ...), enjoy listening to music 🎵, or go spearfishing 🦞🐟. I follow [FC Midtjylland](https://www.fcm.dk/) very closely as you will probably tell from Twitter. I live in Nordvest, Copenhagen, with my two favorite people: my wife Katrine and our daughter Ingrid.

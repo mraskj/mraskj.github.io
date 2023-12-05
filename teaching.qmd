@@ -1,0 +1,14 @@
+---
+title: "Teaching"
+---
+
+Course materials and slides are generally posted on GitHub.
+
+##### Lecturer
+
+-   Computational Analysis of Political Text, Audio, and Images (Fall 2023)
+
+
+##### TA
+
+-   General Political Science (Spring 2021)

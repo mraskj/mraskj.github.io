@@ -12,6 +12,7 @@ Audio and video recordings are increasingly popular for studying the nonverbal d
 :::
 
 ::: g-col-4
+![](images/pitch-diff.png)
 :::
 :::
 

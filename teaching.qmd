@@ -2,12 +2,11 @@
 title: "Teaching"
 ---
 
-Course materials and slides are generally posted on GitHub.
+Course materials and slides are generally posted on GitHub <i class="fa-brands fa-github"></i>
 
 ##### Lecturer
 
 -   Computational Analysis of Political Text, Audio, and Images (Fall 2023)
-
 
 ##### TA
 

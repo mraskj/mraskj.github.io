@@ -10,19 +10,23 @@ title: "Research"
 ::: g-col-12
 ![](images/pitch-diff.png){fig-align="center" width="70%" height="70%"}
 :::
+
 ::: g-col-12
 Audio and video recordings are increasingly popular for studying the nonverbal dimensions of political speech. However, annotations such as timestamps and speaker tags that accompany these recordings are often inaccurate, disparate, or entirely lacking, which significantly limits the ability to systematically explore the political implications of nonverbal speech. The purpose of this paper is two-fold. First and foremost, I validate the empirical use of political speech recordings by investigating the accuracy of annotations across multiple countries and their sensitivity to the estimation of nonverbal features. Second, I develop a method that can automatically annotate speech recordings with timestamps, speaker tags, the text of speech, and nonverbal features with close to human accuracy, while still being invariant to language and speech setting (e.g. legislative vs. campaign speech). I demonstrate the potential of annotated speech recordings with two substantive applications based on a newly compiled dataset of more than 20,000 hours of aligned text-audio data of parliamentary speech from six European countries.
 :::
 :::
 
-#### Elite Partisan Polarization in Nonverbal Communication (w. Frederik Hjorth)
+#### Partisan Conflict in Nonverbal Communication
+
+*With Frederik Hjorth*
 
 ::: grid
 ::: g-col-12
-Elite polarization is an important feature of democratic politics and is in some cases rising sharply, with potentially adverse consequences for democratic citizenship. Political scientists have developed an array of tools for characterizing elite conflict in communication, typically based on legislative speech. However, these approaches consider only the verbal content of communication. We expand the study of elite conflict and polarization to the nonverbal dimension using audio data from more than a decade of parliamentary proceedings in Denmark's parliament. We find that elite partisan polarization is clearly manifested in legislators' vocal style, that polarization in vocal style predicts parliamentary voting, and that elite vocal style predicts mass affective polarization. We also document the findings' robustness to accounting for the verbal content of speech. Our findings document a novel dimension of elite partisan polarization, broadening our understanding of how elites communicate partisan conflict to citizens.
+![](images/H1.png){fig-align="center" width="50%" height="50%"}
 :::
 
-::: g-col-4
+::: g-col-12
+In multiparty systems parties signal conflict through communication, yet standard approaches to measuring partisan conflict in communication consider only the verbal dimension. We expand the study of partisan conflict to the nonverbal dimension by developing a measure of nonverbal conflict signaling based on variation in speakers' vocal pitch. We demonstrate our approach using comprehensive audio data from parliamentary debates in Denmark spanning more than two decades. We find that nonverbal conflict signals reflect prevailing patterns of partisan polarization and predict subsequent legislative behavior. Moreover, consistent with a strategic model of behavior, we show that nonverbal conflict signals track the electoral and policy incentives faced by legislators. All results persist when accounting for the verbal content of speech. By documenting a novel dimension of elite communication of partisan conflict and providing evidence for the strategic use of nonverbal signals, our findings deepen our understanding of the nature of elite partisan communication.
 :::
 :::
 

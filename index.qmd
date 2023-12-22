@@ -7,8 +7,8 @@ about:
 
 I'm a **PhD student** at the [Department of Political Science](https://ps.au.dk/en/) at Aarhus University (Denmark 🇩🇰). In the spring 2024, I'll visit University of Toronto (Canada 🇨🇦)
 
-I study political elites from both a politicians-as-representatives and politicians-as-legislators perspective using cutting-edge data and computational methods. I develop new computational methods and measures, and compile new data sources based on unstructured data sources such as text, audio, and video data.
+I study the behavior and communication of politicians and parties using cutting-edge data and computational methods. In my dissertation, I develop measures of politicians' use of issue emphasis and nonverbal behavior based on a large collection of audio recordings of parliamentary speeches in the Danish Parliament from 2000-2022.
 
-My dissertation studies how we can compile and analyze audio recordings of parliamentary speeches focusing on the Danish Parliament. I collect a comprehension text-audio corpus of parliamentary speeches from 2000-2022 and show that *how* politicians vary their voice holds important implications for our understanding of partisan conflict and political representation.
+Substantially, I use these new methods and data sources to understand political representation, legislative politics, and party competition. For instance, in a recent working paper (coauthored with Frederik Hjorth) we show that legislators use nonverbal signals to communicate partisan and policy conflict.
 
 Besides work, I'm a sport enthusiast, watching football ⚽, cycling 🚴🏽, and lots of other sports (🎾, 🏸, 🏈, 🏀, 🎿, ...), enjoy listening to music 🎵, or go spearfishing 🦞🐟. I follow [FC Midtjylland](https://www.fcm.dk/) very closely as you will probably tell from Twitter. I live in Nordvest, Copenhagen, with my two favorite people: my wife Katrine and our daughter Ingrid.

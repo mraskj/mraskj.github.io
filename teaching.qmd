@@ -7,12 +7,11 @@ Course materials and slides are generally posted on GitHub {{< fa brands github 
 ##### Lecturer
 
 -   Computational Analysis of Political Text, Audio, and Images (Fall 2023)
-    - {{< fa brands github >}}: Forthcoming.
-    - 🔗: Forthcoming.
+    -   {{< fa brands github >}}: <https://github.com/mraskj/CSS-F2023>.
+    -   🔗: <https://kursuskatalog.au.dk/en/course/119313/222E23-Computational-Methods-and-Analysis-of-Political-Text-Audio-and-Image>.
 
 ##### TA
 
--   General Political Science (Spring 2021)
-    - {{< fa brands github >}}: Not available
-    - 🔗: Forthcoming.
-
+-   General Political Science: Political Opinion, Participation, and Representation (Spring 2021)
+    -   {{< fa brands github >}}: Not available
+    -   🔗: <https://kursuskatalog.au.dk/en/course/104881/General-Political-Science-Political-Opinion-Participation-and-Representation>.

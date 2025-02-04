@@ -8,7 +8,7 @@ title: "Research"
 
 ::: grid
 ::: g-col-12
-![](images/annote.png){fig-align="center" width="50%" height="70%"}
+![](images/annote.png){fig-align="center" width="70%" height="70%"}
 :::
 
 ::: g-col-12
@@ -28,7 +28,7 @@ Revised and resubmitted, *Political Science Research and Methods*
 
 ::: grid
 ::: g-col-12
-![](images/conflict.png){fig-align="center" width="50%" height="70%"}
+![](images/conflict.png){fig-align="center" width="70%" height="70%"}
 :::
 
 ::: g-col-12
@@ -44,7 +44,7 @@ Revised and resubmitted, *Political Science Research and Methods*
 
 ::: grid
 ::: g-col-12
-![](images/group.png){fig-align="center" width="50%" height="70%"}
+![](images/group.png){fig-align="center" width="70%" height="70%"}
 :::
 
 ::: g-col-12
@@ -60,7 +60,7 @@ The core assumption behind affirmative action such as gender quotas is that desc
 
 ::: grid
 ::: g-col-12
-![](images/power.png){fig-align="center" width="50%" height="70%"}
+![](images/power.png){fig-align="center" width="70%" height="70%"}
 :::
 
 ::: g-col-12

@@ -8,7 +8,7 @@ title: "Research"
 
 ::: grid
 ::: g-col-12
-![](images/annote.png){fig-align="center" width="50%" height="50%"}
+![](images/annote.png){fig-align="center" width="70%" height="70%"}
 :::
 
 ::: g-col-12

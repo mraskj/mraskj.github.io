@@ -22,6 +22,23 @@ Conditionally accepted, *Political Science Research and Methods*
 :::
 :::
 
+--------------------------------------------------------------------------------
+
+#### PhD Dissertation - The Sound of Politics: How Politicians Pitch Conflict, Representation, and Power
+
+::: grid
+::: g-col-12
+![](images/dissertation-cover.jpg){fig-align="center" width="40%" height="80%"}
+:::
+
+::: g-col-12
+The sound of the human voice conveys information about a speaker’s person, priorities, and positions. The same goes for politicians. Whenever giving a speech, they transmit signals that go beyond what can be inferred from the words themselves. Despite this, political scientists have almost entirely relied on text transcripts, discarding the nonverbal information contained in the audio recordings. This dissertation investigates the sound of politics by studying how and when politicians communicate central components of liberal democracies in the sounds of their voices. The dissertation is based on four articles. The first article is methodological and develops an automated annotation pipeline that can be used to annotate recordings at scale. This is used to compile a comprehensive corpus of text-audio data of parliamentary speeches in the Danish Folketing from 2000-2022. Articles two, three, and four use this corpus to study the sounds of three core components of liberal democracies: political conflict, political representation, and political power. The dissertation presents findings showing that politicians vary the sound of their voices, as it manifests in their vocal pitch, systematically in ways that align with what we would expect and predict from existing political science theories. The dissertation sheds new light on core foundational theories of political science and demonstrates more generally that politics should not be studied in silence but benefits substantially from the use of audio recordings.
+ 
+[Link to paper](https://politica.dk/fileadmin/politica/Dokumenter/Afhandlinger/mathias_rask.pdf)
+:::
+:::
+
+
 ## Working Papers
 
 #### Automated Annotation of Political Speech Recordings

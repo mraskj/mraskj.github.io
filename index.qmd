@@ -5,8 +5,10 @@ about:
   image: images\profileimage.jpg
 ---
 
-I have submitted my PhD dissertation at January 31, 2025, at Aarhus University (🇩🇰), [Department of Political Science](https://ps.au.dk/en/). The dissertation is scheduled for defense on March 28, 2025, and is titled: The Sound of Politics: How Politicians Pitch Conflict, Representation, and Power. Currently, a Research Assistant (pre-defense) and Post Doc. (post-defense) until July 1, 2025.
+I'm a computational social scientist developing and applying new methods and measures to large collections of multimodal data sources (text, audio, video). I use these data sources to study substantial questions from new angles and perspectives.
 
-My research concerns the use of cutting-edge data (e.g., audio collections) and computational methods to study politicians' behavior. In the dissertation, I investigate when and how politicians change the sound of their voices to convey their positions and priorities. The dataset is based on a large collection of audio recordings of parliamentary debates in the Danish Parliament from 2000-2022. The recordings are aligned with their corresponding transcripts to facilitate joint text-audio analysis.
+Currently, a post doc at Aarhus University (🇩🇰), [Department of Political Science](https://ps.au.dk/en/), working on projects related to the new audit of power and democracy in Denmark, "*Magtudredningen 2.0*", led by Professor Michael Bang Petersen. I defended my PhD, "The Sound of Politics: How Politicians Pitch Conflict, Representation, and Power", in March 2025.
+
+My research concerns how we as political scientists can leverage cutting-edge data sources (text corpora, audio or video recordings, and images) to provide new angles or answers to long-standing topics in political science. For example, my dissertation focuses on how politician change the sound of their voices to convey notions of *political conflict, representation, and power*.
 
 Besides work, I'm a sport enthusiast, watching soccer ⚽, cycling 🚴🏽, football 🏈, baseball ⚾, hockey 🏒, and lots of other sports, enjoy listening to music 🎵, go spearfishing 🦞🐟, or making sport myself. I live in Nordvest, Copenhagen, with my three favorite people: my wife Katrine and our two daughters Ingrid and Edith.

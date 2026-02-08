@@ -5,8 +5,6 @@ about:
   image: images\profileimage.jpg
 ---
 
-I'm a PhD in political science with expertise in data science, computational methods, and AI more broadly. I use large-scale multimodal data sources of text, audio, and images to study behavior and complex patterns of human behavior.
-
-Currently, a post doc at Aarhus University (🇩🇰), [Department of Political Science](https://ps.au.dk/en/), working on projects related to the new audit of power and democracy in Denmark, "*Magtudredningen 2.0*", led by Professor Michael Bang Petersen. I defended my PhD, "The Sound of Politics: How Politicians Pitch Conflict, Representation, and Power", in March 2025.
+I work as a Data Engineer in the Machine Learning Lab at the Danish Business Authority. Previously, I was a researcher at Aarhus University, stuyding and developing computational methods and data pipelines for unstructured data sources to the behavior of political elites.
 
 Besides work, I'm a sport enthusiast, watching soccer ⚽, cycling 🚴🏽, football 🏈, baseball ⚾, hockey 🏒, and lots of other sports, enjoy listening to music 🎵, go spearfishing 🦞🐟, or making sport myself. I live in Nordvest, Copenhagen, with my three favorite people: my wife Katrine and our two daughters Ingrid and Edith.
